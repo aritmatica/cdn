@@ -1,0 +1,33 @@
+{
+    "cardPacks": [
+        {
+            "courseClass": "genmath",
+
+            "courseCode": "GENMATH 001",
+            "title": "Law of Logarithms",
+
+            "difficulty": "easy",
+            "price": "free",
+
+            "cards": [
+                [
+                    "When the logarithm's argument can be rewritten into a sum of logarithms.",
+                    "Product Law"
+                ],
+                [
+                    "$$\blog_{b}{uv}=\blog_{b}{u}+\blog_{b}{v}$$",
+                    "Product Law"
+                ],
+
+                [
+                    "When the logarithm's argument can be rewritten into a difference of logarithms.",
+                    "Quotient Law"
+                ],
+                [
+                    "$$\blog_{b}{\frac{u}{v}}=\blog_{b}{u}-\blog_{b}{b}$$",
+                    "Quotient Law"
+                ]
+            ]
+        }
+    ]
+}
