@@ -22,7 +22,7 @@ async function injectHTML(filePath, elem) {
                 document.createTextNode(script.innerHTML)
             )
             // replace existing script tag to a new one
-            script.parentNode.replaceChild(newScript, script);
+            script.parentNode.replaceChild(newScript, script)
         })
 
         injectElem(elem)
